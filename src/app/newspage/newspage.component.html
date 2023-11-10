@@ -1,0 +1,39 @@
+<div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+  <div class="card">
+    <div class="card-body">
+      <h4 class="mt-1 mb-5 pb-1 text-center">Duyuru Gönder</h4>
+      <div class="text-center mb-4">
+        <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp"
+          style="width: 185px;" alt="logo">
+      </div>
+
+      <div class="mb-3 text-center">
+        <label for="name" class="form-label">Adınız: </label> <br> 
+        <input type="text" id="name" name="name" [(ngModel)]="name" class="form-control"
+          style="width: 250px; display: inline-block;">
+      </div>
+
+      <div class="mb-3 text-center">
+        <label for="email" class="form-label">Mail Gönderilecek E-posta:</label><br> 
+        <input type="email" id="email" name="email" [(ngModel)]="email" class="form-control"
+          style="width: 250px; display: inline-block;">
+      </div>
+
+      <div class="mb-3 text-center">
+        <label for="phone" class="form-label">Telefon Numaranız:</label><br> 
+        <input type="tel" id="phone" name="phone" [(ngModel)]="phone" class="form-control"
+          style="width: 250px; display: inline-block;">
+      </div>
+
+      <div class="mb-3 text-center">
+        <label for="description" class="form-label">Mail Açıklamanız:</label><br> 
+        <input type="text" id="description" name="description" [(ngModel)]="description" class="form-control"
+          style="width: 250px; display: inline-block;">
+      </div>
+
+      <div class="mb-3 text-center">
+        <button type="button" (click)="sendMail()" class="btn btn-primary">Gönder</button>
+      </div>
+    </div>
+  </div>
+</div>

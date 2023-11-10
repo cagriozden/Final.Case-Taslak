@@ -1,0 +1,133 @@
+<!-- aler için script -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+<header class="header sticky top-0 bg-white shadow-md flex items-center justify-between px-20 py-05">
+  <!-- logo -->
+  <h1 class="w-2/12" style="width: 130px;" alt="logo">
+    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp">
+  </h1>
+
+  <!-- navigation -->
+  <nav class="nav font-semibold text-lg w-6/12">
+      <ul class="flex items-center justify-around">
+          <li class="p-4 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer active">
+            <a routerLink="/Bayipage">Anasayfa</a>
+          </li>
+          <li class="p-4 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
+            <a routerLink="/About">Hakkımızda</a>
+          </li>
+          <li class="p-4 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
+            <a routerLink="/Contact">İletişim</a>
+          </li>
+		  <li class="p-4 border-b-2 border-green-500 border-opacity-0 hover:border-opacity-100 hover:text-green-500 duration-200 cursor-pointer">
+            <a routerLink="/OrderHistory">Siparişlerim</a>
+          </li>
+          <li>
+            <!-- -------------search---------------------- -->
+
+            <div class="input-group">
+              <input [(ngModel)]="searchTerm" type="search" class="form-control rounded" placeholder="Ürün adı giriniz" aria-label="Search" aria-describedby="search-addon" />
+              <button type="button" class="btn btn-outline-primary" (click)="onSearchClick()">ara</button>
+            </div>
+            <!-- -------------search---------------------- end -->
+
+          </li>
+      </ul>
+  </nav>
+
+  <!-- buttons --->
+  <div class="w-4/12 flex justify-end items-center space-x-6">
+    <button routerLink="/Paymentpage" type="button" class="btn btn-success">
+      <i  class="fa fa-shopping-cart"></i> Sepete Git ve Siparişi tamamla
+    </button>
+  </div>
+</header>
+
+<div class="container" *ngFor="let product of products">
+    <div class="col-xs-12 col-md-6 bootstrap snippets bootdeys">
+        <!-- product -->
+        <div class="product-content product-wrap clearfix" id="product-{{ product.id }}">
+            <div class="row">
+                <div class="col-md-5 col-sm-12 col-xs-12">
+                    <div class="product-image"> 
+                        <img src="https://m.media-amazon.com/images/I/71fw6G4l7ML._AC_SL1200_.jpg" alt="194x228" class="img-responsive"> 
+                        <span class="tag2 hot">
+                            %3
+                        </span> 
+                    </div>
+                </div>
+                <div class="col-md-7 col-sm-12 col-xs-12">
+                    <div class="product-deatil">
+                        <h5 class="name">
+                            <a href="#">
+                                <!-- ilgili alanlara producst kolonları yazılacak -->
+                                {{product.productName}} <span>Teknoloji</span>
+                                <div>
+                                   
+                                </div>
+                            </a>
+                        </h5>
+                        <p class="price-container">
+                            <span>{{product.productPrice}}TL</span>
+                        </p>
+                        <span class="tag1"></span> 
+                    </div>
+                    <div class="description">
+                        <p> {{product.productInformation}} </p>
+                        <p> {{product.productQuantity}} Adet kalmıştır </p>
+                        <div class="col-md-6 col-sm-6 col-xs-6">
+                          <div class="rating">
+                              <label for="stars-rating-5"><i class="fa fa-star"></i></label>
+                              <label for="stars-rating-4"><i class="fa fa-star text-primary"></i></label>
+                              <label for="stars-rating-3"><i class="fa fa-star text-primary"></i></label>
+                              <label for="stars-rating-2"><i class="fa fa-star text-primary"></i></label>
+                              <label for="stars-rating-1"><i class="fa fa-star text-primary"></i></label>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="product-info smart-form">
+                        <div class="row">
+                          <div class="col-md-6 col-sm-6 col-xs-6 product-item">
+                            <div class="quantity-controls">
+                                <button class="quantity-btn decrease-btn" (click)="decreaseQuantity(product.id)">
+                                    <i class="fa fa-minus"></i>
+                                </button>
+                                <span class="quantity-display">{{ quantities[product.id] }}</span>
+                                <button class="quantity-btn increase-btn" (click)="increaseQuantity(product.id)">
+                                    <i class="fa fa-plus"></i>
+                                </button>
+                                
+                            </div>
+                            
+                        </div>
+                        <button style="    margin-top: 25px;" (click)="addToBasket(product)" type="button" class="btn btn-success add-to-cart-btn">
+                          <i class="fa fa-shopping-cart"></i> Sepete Ekle
+                      </button>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end product -->
+    </div>
+</div>
+
+
+
+
+
+
+
+
+         
+
+
+
+
+
+
+
+         

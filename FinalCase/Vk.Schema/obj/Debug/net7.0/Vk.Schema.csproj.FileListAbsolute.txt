@@ -1,0 +1,57 @@
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\bin\Debug\net7.0\Vk.Schema.deps.json
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\bin\Debug\net7.0\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\bin\Debug\net7.0\Vk.Schema.pdb
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.AssemblyReference.cache
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\Vk.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfoInputs.cache
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfo.cs
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.CoreCompileInputs.cache
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\refint\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\Vk.Schema.pdb
+C:\Vakifbank_Bootcamp\FinalCase\VkApi\Vk.Schema\obj\Debug\net7.0\ref\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.deps.json
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.pdb
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.AssemblyReference.cache
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfoInputs.cache
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfo.cs
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.CoreCompileInputs.cache
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\refint\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.pdb
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\ref\Vk.Schema.dll
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Base.dll
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Base.pdb
+C:\Vakifbank_Bootcamp\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.CopyComplete
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.deps.json
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.dll
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.pdb
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Base.dll
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Base.pdb
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.AssemblyReference.cache
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfo.cs
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.CopyComplete
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.dll
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\refint\Vk.Schema.dll
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.pdb
+C:\Users\Çağrı Özden\Desktop\FinalCase\Vk.Schema\obj\Debug\net7.0\ref\Vk.Schema.dll
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.deps.json
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.dll
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Schema.pdb
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Base.dll
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\bin\Debug\net7.0\Vk.Base.pdb
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.AssemblyReference.cache
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.AssemblyInfo.cs
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.csproj.CopyComplete
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.dll
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\refint\Vk.Schema.dll
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\Vk.Schema.pdb
+C:\Users\Çağrı Özden\Desktop\son gece\21.44\FinalCase\Vk.Schema\obj\Debug\net7.0\ref\Vk.Schema.dll
