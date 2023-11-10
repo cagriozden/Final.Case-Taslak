@@ -1,11 +1,11 @@
 # BayiSepeti Projesi
 
-BayiSepeti, bayilerin dinamik bir şekilde stoktaki ürünleri görüntüleyebildiği, sipariş verebildiği ve bu siparişlerin admin onayını beklediği bir Angular projesidir. Proje, code-first yaklaşımıyla geliştirilmiş olup, veritabanı olarak MSSQL kullanılmıştır.
+BayiSepeti, bayilerin dinamik bir şekilde stoktaki ürünleri görüntüleyebildiği, sipariş verebildiği ve bu siparişlerin admin onayını beklediği bir B2B" (Business to Business) projedir. Proje, code-first yaklaşımıyla geliştirilmiş olup, veritabanı olarak MSSQL kullanılmıştır. Bayilerin toptan ürün alması için tasarlanmış bir web sitesidir. Bayilerin bekleyen siparişlerini görüntülülediği ve siparişlerini iptal edebildiği web sitesi sahibi ile mail aracaılığıyla iletişime geçebildiği aynı zamanda ürünleri detaylıca inceleyebildiği bir mimari hazırlanmıştır. Yazılım içerisinde backend ve frontend alanlarının iletişimi api ile sağlanmıştır.Projenin veritabanı şemalarını yönetmek ve güncellemek için migrationlar kullanılmıştır.Gelen istekleri işleyip gerekli yanıtları oluşturmak için Controllerlar hazırlanmıştır.Kimlik doğrulması için token tabanlı bir giriş yöntemi entegre edilmiştir. Bu projede CQRS ve Unit of Work prensipleri kullanılarak, komut (command) ve sorgu (query) işlemleri ayrılmış, böylece performans ve ölçeklenebilirlik avantajları elde edilmiştir. Bu şekilde, BayiSepeti projesi güçlü bir altyapı ve kullanıcı dostu bir arayüzle bayilere toptan ürün alımı ve yönetimi imkanı sunan bir B2B platformu haline getirilmek amaçlanmıştır.
 
 ![Resim 1](https://github.com/cagriozden/Final.Case-Taslak/assets/88632615/f50b5311-a089-49c4-abb4-7adce0f4af44)
 
 
-| Tüm Siparişler | Bayi Siparişleri Onaylama ve İptal Etme | Onaylanan Siparişler | Stok Durumu | Bayi Analizi |
+| Admin Paneli | Bayi Siparişleri Onaylama ve İptal Etme | Onaylanan Siparişler | Stok Durumu | Bayi Analizi |
 | :-------------: | :-----------------------------------: | :------------------: | :---------: | :-----------: |
 | ![Resim 2](https://github.com/cagriozden/Final.Case-Taslak/assets/88632615/06728e10-35ae-4ba8-96b5-057aee09ee07) | ![Resim 3](https://github.com/cagriozden/Final.Case-Taslak/assets/88632615/34b1df23-af2d-4f55-a145-f494b500713c) | ![Resim 4](https://github.com/cagriozden/Final.Case-Taslak/assets/88632615/eec724b1-8dac-479b-84db-01648e79fedb) | ![Resim 5](https://github.com/cagriozden/Final.Case-Taslak/assets/88632615/1750fb74-faeb-48b7-a57d-0946f5a5294b) | ![Resim 6](https://github.com/cagriozden/Final.Case-Taslak/assets/88632615/63b65e8f-58ad-423b-9add-f675fb56e951) |
 
